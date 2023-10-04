@@ -1,26 +1,27 @@
 <h1 align="center">Hi 👋, I'm Promiti Dasgupta</h1>
-<h3 align="center">A passionate frontend developer As a highly motivated and detail-oriented individual, I am enthusiastic about kickstarting my career as a QA Engineer. I possess a solid foundation in software testing principles and a passion for ensuring the quality and reliability of software products. With a strong analytical mindset and dedication to continuous learning, I am eager to contribute to the success of software development teams.from India</h3>
+<h3 align="center">A passionate QA aspirant and as a highly motivated and detail-oriented individual, I am enthusiastic about kickstarting my career as a QA Engineer. I possess a keen eye for detail and a commitment to ensuring software quality. I have a strong background in testing methodologies, testing strategies, and a knack for finding and reporting bugs to help create robust and reliable software.
+</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/JXA0.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antu1704&label=Profile%20views&color=0e75b6&style=flat" alt="antu1704" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce website Designing**
+- 🔭 I’m currently working on **Performance Testing on an E-commerce website using JMeter**
 
-- 🌱 I’m currently learning **Postman, JMeter, Balsamiq**
+- 🌱 I’m currently learning **API Testing, Postman, JMeter**
 
-- 💬 Ask me about **manual testing, regression testing, test case design**
+- 💬 Ask me about **Manual Testing, Regression Testing, Test Case Design, STLC**
 
-- 📫 How to reach me **antupromiti@gmail.com**
+- 📫 How to reach me **promiti105@gmail.com**
 
 - ⚡ Fun fact **I've seen every episode of my favorite TV show at least five times!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/promiti dasgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="promiti dasgupta" height="30" width="40" /></a>
-<a href="https://kaggle.com/promiti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="promiti" height="30" width="40" /></a>
+
 <a href="https://fb.com/promiti dasgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="promiti dasgupta" height="30" width="40" /></a>
-<a href="https://instagram.com/promitiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="promitiii" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
