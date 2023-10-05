@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Performance Testing on an E-commerce website using JMeter**
 
-- 🌱 I’m currently learning **API Testing, Postman, JMeter**
+- 🌱 I’m currently learning **JMeter, API Testing, Postman**
 
 - 💬 Ask me about **Manual Testing, Regression Testing, Test Case Design, STLC**
 
