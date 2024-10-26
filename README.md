@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Promiti Dasgupta</h1>
-<h3 align="center">Dedicated software tester with over a year of experience in software quality assurance. Proficient in various testing methodologies and tools and adept at designing test plans. Developed efficient workflows which reduce debugging time. I have a strong background in testing methodologies, testing strategies, and a knack for finding and reporting bugs to help create robust and reliable software. Proud of the role I play in tedious testing tasks which streamlined the QA processand substantially enhanced the final product quality.
+<h3 align="center">Dedicated software tester with over a year of experience in software quality assurance. Proficient in various testing methodologies and tools and adept at designing test plans. Developed efficient workflows which reduce debugging time. Proud of the role I play in tedious testing tasks which streamlined the QA process and substantially enhanced the final product quality.
 </h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/JXA0.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antu1704&label=Profile%20views&color=0e75b6&style=flat" alt="antu1704" /> </p>
