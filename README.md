@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Performance Testing on an E-commerce website using JMeter**
+- 🔭 I’m currently working on **Alpine VMS project**
 
-- 🌱 I’m currently learning **JMeter, API Testing, Postman**
+- 🌱 I’m currently learning **writing automated test cases in Selenium for my ongoing project**
 
-- 💬 Ask me about **Manual Testing, Regression Testing, Test Case Design, STLC**
+- 💬 Ask me about **Manual Testing, Regression Testing, Test Case Design, STLC, API Testing**
 
 - 📫 How to reach me **promiti105@gmail.com**
 
